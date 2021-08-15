@@ -1,11 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# @Time    : 2018/05/02
 # @Author  : kingsley kwong
-# @Site    :
-# @File    : shop\api.py.bak.bai
-# @Software: BI 不漏 flask
-# @Function:
+
 
 from flask import Blueprint
 from bi_flask.utils import *
