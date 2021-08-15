@@ -1,6 +1,5 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# @Time : 2020/5/13 17:57
 # @Author: Kingsley Kwong
 # @File : settings.py
 
