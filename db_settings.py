@@ -79,15 +79,6 @@ DATA_SOURCE = {
         'db': '',
         'ssh': '',
     },
-    'hmc_trade_center': {
-        'engine': 'mysql',
-        'host': 'prod-hmcloud-center-ro.rwlb.rds.aliyuncs.com',
-        'port': 3306,
-        'user': 'hmc_bi_ro',
-        'passwd': '41DpP=z4s3SGDypgiRT1',
-        'db': 'hmc_trade_center',
-        'ssh': 'hmc',
-    },
     'hmc_member_center': {
         'engine': 'mysql',
         'host': 'prod-hmcloud-center-ro.rwlb.rds.aliyuncs.com',
